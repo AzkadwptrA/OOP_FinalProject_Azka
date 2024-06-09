@@ -13,8 +13,8 @@ This project is created within the Java programming language using Object-Orient
 ## Documentation
 This project has been documented in a report and a poster showing how the program functions:
 
-- [PDF Report]: https://drive.google.com/drive/folders/1SsHjsgP9uMGNEcHYM50F-Ht9WuJvX5-8?usp=sharing
-- [Poster]: 
+- [PDF Report] : https://drive.google.com/drive/folders/1SsHjsgP9uMGNEcHYM50F-Ht9WuJvX5-8?usp=sharing
+- [Poster] : 
 
 ## Application 
 
