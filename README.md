@@ -14,8 +14,8 @@ This project is created within the Java programming language using Object-Orient
 This project has been documented in a report and a poster showing how the program functions:
 
 - [PDF Report] : https://drive.google.com/drive/folders/1SsHjsgP9uMGNEcHYM50F-Ht9WuJvX5-8?usp=sharing
-- [Poster] : 
+- [Poster] : https://drive.google.com/drive/folders/17smnEvEeQdrWZf4oSmlzU_lUHf06H6yj?usp=sharing
 
 ## Application 
 
-![Application Screenshot](Screenshot 2024-06-10 212426.png)
+![Application Screenshot](Screenshot.png)
