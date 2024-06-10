@@ -18,4 +18,4 @@ This project has been documented in a report and a poster showing how the progra
 
 ## Application 
 
-![Application Screenshot]()
+![Application Screenshot](Screenshot 2024-06-10 212426.png)
